@@ -1,4 +1,6 @@
 support
 =======
 
-Functor support - http://functor.io
+Welcome to Functor.io support.
+
+Open new issues here: https://github.com/functorio/support/issues
